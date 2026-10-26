@@ -1,0 +1,8 @@
+{
+  "burgers": [
+    { "id": 1, "name": "The Classic Crunch", "price": "$12.99", "desc": "Double patty, crispy lettuce, secret sauce." },
+    { "id": 2, "name": "Spicy Jalapeño Heat", "price": "$14.50", "desc": "Pepper jack cheese, fresh jalapeños, spicy mayo." },
+    { "id": 3, "name": "The BBQ Tower", "price": "$15.99", "desc": "Onion rings, bacon, cheddar, smoky BBQ sauce." },
+    { "id": 4, "name": "Mushroom Swiss Melt", "price": "$13.99", "desc": "Sautéed mushrooms, melted swiss, garlic aioli." }
+  ]
+}
